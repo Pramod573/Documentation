@@ -36,7 +36,7 @@
    ```sh 
    # Create tomcat directory
    cd /opt
-   wget https://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.56/bin/apache-tomcat-8.5.56.tar.gz
+   wget https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.81/bin/apache-tomcat-8.5.81.tar.gz
    tar -xvzf /opt/apache-tomcat-8.5.56.tar.gz
    ```
 1. give executing permissions to startup.sh and shutdown.sh which are under bin. 
